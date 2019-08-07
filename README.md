@@ -1,2 +1,2 @@
-# NLPstarting
-自然语言处理入门
+# NLPLearning
+学习自然语言处理
