@@ -36,14 +36,14 @@ To get the most out of this book, we assume the following from the reader:
 # 目录：
 
 - 第一章  自然语言处理简介
-- 第二章  理解 TensorFlow
-- 第三章  Word2Vec——学习词嵌入
-- 第四章  高级Word2Vec
-- 第五章  用卷积神经网络进行句子分类
-- 第六章  递归神经网络
+- 第二章  [理解 TensorFlow](https://github.com/CodingMarathon/NLP/tree/master/Natural-Language-Processing-with-TensorFlow/ch2)
+- 第三章  [Word2Vec——学习词嵌入](https://github.com/CodingMarathon/NLP/tree/master/Natural-Language-Processing-with-TensorFlow/ch3)
+- 第四章  [高级Word2Vec](https://github.com/CodingMarathon/NLP/tree/master/Natural-Language-Processing-with-TensorFlow/ch4)
+- 第五章  [用卷积神经网络进行句子分类](https://github.com/CodingMarathon/NLP/tree/master/Natural-Language-Processing-with-TensorFlow/ch5)
+- 第六章  [递归神经网络](https://github.com/CodingMarathon/NLP/tree/master/Natural-Language-Processing-with-TensorFlow/ch6)
 - 第七章  长短期记忆网络
-- 第八章  LSTM应用：文本生成
-- 第九章  LSTM应用：图像标题生成
-- 第十章  序列到序列学习：神经机器翻译
-- 第十一章  自然语言处理的现状与未来
+- 第八章  [LSTM应用：文本生成](https://github.com/CodingMarathon/NLP/tree/master/Natural-Language-Processing-with-TensorFlow/ch8)
+- 第九章  [LSTM应用：图像标题生成](https://github.com/CodingMarathon/NLP/tree/master/Natural-Language-Processing-with-TensorFlow/ch9)
+- 第十章  [序列到序列学习：神经机器翻译](https://github.com/CodingMarathon/NLP/tree/master/Natural-Language-Processing-with-TensorFlow/ch10)
+- 第十一章  [自然语言处理的现状与未来](https://github.com/CodingMarathon/NLP/tree/master/Natural-Language-Processing-with-TensorFlow/ch11)
 
