@@ -1,9 +1,9 @@
 # Natural-Language-Processing-with-TensorFlow
-/Natural-Language-Processing-with-TensorFlow/ch9/image_caption_data
+/Natural-Language-Processing-with-TensorFlow/ch9/image_caption_data/
 
 # 伯禹自然语言处理
-/伯禹自然语言处理/input
-/伯禹自然语言处理/03基于卷积神经网络的文本分类/runs
+/伯禹自然语言处理/input/
+/伯禹自然语言处理/03基于卷积神经网络的文本分类/runs/
 /伯禹自然语言处理/05词嵌入展示/text8.w2v.trainables.syn1neg.npy
 /伯禹自然语言处理/05词嵌入展示/text8.w2v.wv.vectors.npy
 /伯禹自然语言处理/05词嵌入展示/text8.w2v
