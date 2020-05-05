@@ -1,0 +1,2 @@
+model_checkpoint_path: "E:\\Github repository\\NLP\\Fudan_NLP_beginner\\task01_Text_clssification\\text_classification/model/checkpoints\\best_validation"
+all_model_checkpoint_paths: "E:\\Github repository\\NLP\\Fudan_NLP_beginner\\task01_Text_clssification\\text_classification/model/checkpoints\\best_validation"
