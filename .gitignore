@@ -2,4 +2,8 @@
 
 /BoyuNLP/input/
 
-/Fudan_NLP_beginner/task01_Text_classification/text_classification/data/!stopwords.txt
+/Fudan_NLP_beginner/task01_Text_classification/text_classification/data/cnews.test.txt
+/Fudan_NLP_beginner/task01_Text_classification/text_classification/data/cnews.train.txt
+/Fudan_NLP_beginner/task01_Text_classification/text_classification/data/cnews.val.txt
+/Fudan_NLP_beginner/task01_Text_classification/text_classification/data/cnews.vocab.txt
+/Fudan_NLP_beginner/task01_Text_classification/text_classification/data/categories.txt
